@@ -5,8 +5,8 @@
 
 #include <math.h>
 #include <stdlib.h>
-#include "config.h"
-#include "interleaver.h"
+#include "../include/config.h"
+#include "../include/interleaver.h"
 
 /* =========================================================================
  * ARP interleaver initialisation
