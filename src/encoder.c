@@ -6,9 +6,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include "config.h"
-#include "encoder.h"
-#include "utils.h"
+#include "../include/config.h"
+#include "../include/encoder.h"
+#include "../include/utils.h"
 
 /* =========================================================================
  * Global encoder tables
