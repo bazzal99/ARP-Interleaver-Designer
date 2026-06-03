@@ -9,12 +9,6 @@
  *   result.txt        — all interleavers meeting the distance threshold
  *   final_result.txt  — the best interleaver found
  *
- * Reference:
- *   M. Bazzal, J. Nadal, S. Weithoffer, C. Abdel Nour, C. Douillard,
- *   "Distance-centric joint interleaver and structural code design for
- *   concatenated convolutional codes,"
- *   IEEE Open Journal of the Communications Society, 2025.
- *
  * Author:  Mohammad Bazzal, IMT Atlantique, Lab-STICC, Brest, France
  * License: MIT
  */
