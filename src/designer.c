@@ -7,12 +7,12 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
-#include "config.h"
-#include "encoder.h"
-#include "interleaver.h"
-#include "rtz_search.h"
-#include "designer.h"
-#include "utils.h"
+#include "../include/config.h"
+#include "../include/encoder.h"
+#include "../include/interleaver.h"
+#include "../include/rtz_search.h"
+#include "../include/designer.h"
+#include "../include/utils.h"
 
 /* Global counter: number of valid interleavers found in the current round */
 static int count_interleaver = 0;
