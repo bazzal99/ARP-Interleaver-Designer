@@ -7,10 +7,10 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include "config.h"
-#include "encoder.h"
-#include "interleaver.h"
-#include "utils.h"
+#include "../include/config.h"
+#include "../include/encoder.h"
+#include "../include/interleaver.h"
+#include "../include/utils.h"
 
 #define HASH_TABLE_SIZE  1009
 #define MAX_LINE_LEN     60
