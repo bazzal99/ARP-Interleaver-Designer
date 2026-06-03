@@ -127,7 +127,7 @@
  * Maximum number of candidate shift values S[layer] to keep per layer.
  * Higher = more thorough search, longer runtime. Recommended: 1–10.
  */
-#define MAX_CANDIDATES_PER_LAYER  1
+#define MAX_CANDIDATES_PER_LAYER  3
 
 /**
  * Maximum number of valid interleavers to find before stopping.
