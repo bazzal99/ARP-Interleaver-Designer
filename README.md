@@ -123,8 +123,6 @@ For mode 0 or 2, generate `All_RTZ.txt` first by calling `saveAllBranchesToFile_
 ```
 1,3239,1417,4936,1460,52,5820,1203     dmin = 9  - P=733   - multiple = 2
 3,4845,5926,5304,4918,792,5739,2121    dmin = 10 - P=3323  - multiple = 20
-3,2033,3025,769,6101,2775,3947,5675    dmin = 11 - P=3019  - multiple = 10
-7,1345,397,5727,2133,903,3643,4861     dmin = 12 - P=3635  - multiple = 122
 ```
 
 ---
