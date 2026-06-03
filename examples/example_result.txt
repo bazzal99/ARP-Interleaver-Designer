@@ -1,0 +1,10 @@
+# Example output: result.txt
+#
+# Format: S[0],S[1],...,S[Q-1]     dmin = <d> - P=<p>  - multiple = <m>
+#
+# Each line is one valid ARP interleaver {S, P} that achieves dmin >= threshold.
+# The "best" interleaver (highest dmin, lowest multiplicity) is copied to final_result.txt.
+
+1,3239,1417,4936,1460,52,5820,1203     	    dmin = 9 - P=733  - multiple = 2
+3,4845,5926,5304,4918,792,5739,2121     	    dmin = 10 - P=3323  - multiple = 20
+

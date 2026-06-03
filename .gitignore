@@ -1,0 +1,17 @@
+# Compiled binary and objects
+arp_designer
+src/*.o
+
+# Generated output files
+result.txt
+final_result.txt
+temp.txt
+_dedup_tmp.txt
+All_RTZ.txt
+output_*.txt
+layer_*.txt
+
+# Editor artifacts
+*.swp
+*~
+.DS_Store
