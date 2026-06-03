@@ -20,13 +20,6 @@ where K is the frame size, P is the period, Q is the number of sub-layers, and S
 
 This tool solves that problem using a **layer-by-layer search** driven by the same decoder-free RTZ estimation technique introduced for LTE turbo code analysis. The algorithm is computationally efficient and applicable to arbitrary RSC encoders and puncturing patterns.
 
-**Reference:**
-
-> M. Bazzal, J. Nadal, S. Weithoffer, C. Abdel Nour, C. Douillard,  
-> *"Distance-centric joint interleaver and structural code design for concatenated convolutional codes,"*  
-> IEEE Open Journal of the Communications Society, 2025.
-
----
 
 ## Repository structure
 
