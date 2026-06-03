@@ -150,15 +150,3 @@ MIT License. See [LICENSE](LICENSE).
 
 ---
 
-## Citation
-
-```bibtex
-@article{bazzal2025distance,
-  author  = {Bazzal, Mohammad and Nadal, Jeremy and Weithoffer, Stefan
-             and {Abdel Nour}, Charbel and Douillard, Catherine},
-  title   = {Distance-centric joint interleaver and structural code design
-             for concatenated convolutional codes},
-  journal = {IEEE Open Journal of the Communications Society},
-  year    = {2025}
-}
-```
